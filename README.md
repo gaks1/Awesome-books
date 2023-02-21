@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <h1><b>AWESOME BOOKS AMANUEL AND ISAAC</b></h1>
+  <h1><b>AWESOME BOOKS ISAAC REFACTORED WITH MODULES</b></h1>
   <br/>
 
 </div>
@@ -114,7 +114,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/amanuelbelete95/awesome-books.git
+git clone git@github.com:gaks1/awesome-books-refactor.git
 
 <!--
 Example commands:
@@ -195,12 +195,6 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/bopplov)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/isaac-wanyoike-1841a8172/)
 
-👤 **Amanuel Belete**
-
-- GitHub: [@amanuelbelete95](https://github.com/amanuelbelete95)
-- Twitter: [@AmanuelBelete11](https://twitter.com/AmanuelBelete11)
-- LinkedIn: [Amanuel Belete](https://www.linkedin.com/in/amanuel-belete-292994194/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -217,7 +211,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/amanuelbelete95/awesome-books/issues).
+Feel free to check the [issues page](https://github.com/gaks1/awesome-books-refactor/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
