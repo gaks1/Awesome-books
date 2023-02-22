@@ -1,10 +1,10 @@
 import { dateElement } from './selector.js';
 
-import DateTime from '../node_modules/luxon/src/datetime.js';
+import DateTime from '../luxon/src/datetime.js';
 
-const now = DateTime.now();
-const addDate = () => {
-  const formatted = now.toLocaleString({
+const myTimer = () => {
+  const now = DateTime.now();
+  dateElement.innerHTML = now.toLocaleString({
     month: 'long',
     day: 'numeric',
     year: 'numeric',
@@ -13,7 +13,6 @@ const addDate = () => {
     second: 'numeric',
     hour12: true,
   });
-  dateElement.innerHTML = formatted;
 };
 
-export default addDate;
+export default myTimer;
