@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default class Invalid {
   constructor(reason, explanation) {
     this.reason = reason;
@@ -7,8 +8,7 @@ export default class Invalid {
   toMessage() {
     if (this.explanation) {
       return `${this.reason}: ${this.explanation}`;
-    } else {
-      return this.reason;
     }
+    return this.reason;
   }
 }

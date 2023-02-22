@@ -1,10 +1,11 @@
+/* eslint-disable */
 /**
  * @private
  */
 
-const n = "numeric",
-  s = "short",
-  l = "long";
+const n = 'numeric';
+const s = 'short';
+const l = 'long';
 
 export const DATE_SHORT = {
   year: n,
@@ -66,21 +67,21 @@ export const TIME_WITH_LONG_OFFSET = {
 export const TIME_24_SIMPLE = {
   hour: n,
   minute: n,
-  hourCycle: "h23",
+  hourCycle: 'h23',
 };
 
 export const TIME_24_WITH_SECONDS = {
   hour: n,
   minute: n,
   second: n,
-  hourCycle: "h23",
+  hourCycle: 'h23',
 };
 
 export const TIME_24_WITH_SHORT_OFFSET = {
   hour: n,
   minute: n,
   second: n,
-  hourCycle: "h23",
+  hourCycle: 'h23',
   timeZoneName: s,
 };
 
@@ -88,7 +89,7 @@ export const TIME_24_WITH_LONG_OFFSET = {
   hour: n,
   minute: n,
   second: n,
-  hourCycle: "h23",
+  hourCycle: 'h23',
   timeZoneName: l,
 };
 
